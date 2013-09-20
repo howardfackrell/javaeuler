@@ -1,11 +1,9 @@
 package com.hlf.javaeuler.euler5;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Howard.Fackrell
- * Date: 9/13/13
- * Time: 9:49 AM
- * To change this template use File | Settings | File Templates.
+ 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+ What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
  */
 public class Euler5 {
 
